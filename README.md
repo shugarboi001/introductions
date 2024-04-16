@@ -5,5 +5,6 @@ How can we learn about commands like this? List some techniques:
 
 Answers
 1. Start with Git Documentation
+2. Read Books on git
 
 
